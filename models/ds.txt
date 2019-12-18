@@ -1,0 +1,7 @@
+If Respiratory-Illness=Yes and Smoker=Yes and Age >= 50 then Lung Cancer 
+If Risk-LungCancer = Yes and Blood-Pressure >= 0.3 then Lung Cancer 
+If Risk-Depression = Yes and Past-Depression = Yes then Depression 
+If BMI >= 0.3 and Insurance = None and Blood-Pressure >= 0.2 then Depression 
+If Smoker=Yes and BMI >= 0.2 and Age >= 60 then Diabetes 
+If Risk-Diabetes=Yes and BMI >= 0.4 and Prob-Infections >= 0.2 then Diabetes 
+If Doctor-Visits >= 0.4 and Childhood-Obesity = Yes then Diabetes

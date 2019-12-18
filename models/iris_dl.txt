@@ -1,0 +1,5 @@
+If petal length <= 1.9 then setosa
+Else If petal width > 1.7 then virginica
+Else If petal length <= 4.9 then versicolor
+Else If petal width > 1.5 then versicolor
+Else virginica

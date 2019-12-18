@@ -1,0 +1,7 @@
+If Respiratory-Illness = Yes and Smoker = Yes and Age >= 50 then Lung Cancer 
+Else If Risk-Depression = Yes then Depression 
+Else If BMI >= 0.2 and Age >= 60 then Diabetes 
+Else If Headaches = Yes and Dizziness = Yes then Depression 
+Else If Doctor-Visits >= 0.3 then Diabetes 
+Else If Disposition-Tiredness = Yes then Depression 
+Else Diabetes
